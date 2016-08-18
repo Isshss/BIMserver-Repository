@@ -39,12 +39,6 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
-      "artifactId": "collada"
-    }
-  }, {
-    "maven": {
-      "defaultrepository": "http://central.maven.org/maven2",
-      "groupId": "org.opensourcebim",
       "artifactId": "citygml"
     }
   }, {
