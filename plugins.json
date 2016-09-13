@@ -1,5 +1,11 @@
 {
-  "plugins": [ {
+  "plugins": [{
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "ifcengine"
+    }
+  }, {
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
