@@ -89,13 +89,7 @@
       "groupId": "org.opensourcebim",
       "artifactId": "gltf"
     }
-  }, {
-    "maven": {
-      "defaultrepository": "http://central.maven.org/maven2",
-      "groupId": "org.opensourcebim",
-      "artifactId": "ifcvalidator"
-    }
-  }, {
+  },  {
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
