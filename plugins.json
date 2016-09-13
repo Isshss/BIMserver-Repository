@@ -101,5 +101,11 @@
       "groupId": "org.opensourcebim",
       "artifactId": "console"
     }
-  }]
+  }, {
+      "maven": {
+        "defaultrepository": "http://central.maven.org/maven2",
+        "groupId": "com.github.Isshss",
+        "artifactId": "dimviews"
+      }
+    }]
 }
