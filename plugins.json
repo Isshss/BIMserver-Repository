@@ -1,9 +1,9 @@
 {
-  "plugins": [{
-      "maven": {
-        "defaultrepository": "https://oss.sonatype.org/content/repositories/snapshots",
-        "groupId": "com.github.Isshss",
-        "artifactId": "dimviews"
-      }
-    }]
+  "plugins": [ {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "ifcvalidator"
+    }
+  }]
 }
