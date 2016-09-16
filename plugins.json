@@ -1,7 +1,7 @@
 {
   "plugins": [{
     "maven": {
-      "defaultrepository": "https://oss.sonatype.org/content/repositories/releases",
+      "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "com.github.Isshss",
       "artifactId": "dimviews"
     }
